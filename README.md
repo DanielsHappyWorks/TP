@@ -2,9 +2,16 @@
 
 ## What is TP
 
+TP is a horror game where you go through the same room over and over until you escape.
+Toilet roll is your only saving grace as it seems to have the powers to alter your fate and save your ass.
+
+## MVP
+
+The mvp is the first room of the the full game.
+
 ## Inspiration
 
-## References
+PT <- horror game demo
 
 ## Your environment must contain and demonstrate the following basic elements in this order:
 - Variables: For storing and manipulating data.
